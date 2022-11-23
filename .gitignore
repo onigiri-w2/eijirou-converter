@@ -5,6 +5,7 @@
 
 # project固有
 /output/
+/input/
 
 # python
 .pytest_cache/
