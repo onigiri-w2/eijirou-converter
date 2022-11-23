@@ -1,0 +1,11 @@
+# common
+.vscode/
+.venv/
+.idea/
+
+# project固有
+/output/
+
+# python
+.pytest_cache/
+__pycache__/

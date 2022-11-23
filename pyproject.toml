@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "eijirou-converter"
+version = "0.1.0"
+description = ""
+authors = ["onigiri-w2 <94182619+onigiri-w2@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.2.0"
+pytest-mock = "^3.10.0"
+pytest-describe = "^2.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
